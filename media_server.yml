@@ -1,5 +1,4 @@
-version: "3.3"
-name: media-stack
+version: "2.2"
 services:
 
   # To use/enable VPN, Run this compose file with --profile=vpn. Its highly recommended to use VPN.
