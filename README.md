@@ -15,7 +15,7 @@ Now, configure the volumes to your need (and VPN)
 Finally to start the container run
 
 ```bash
-docker-compose -f media-server up
+docker-compose -f media-server.yml up
 ```
 
 add a -d flag before the up to run the container in the background
