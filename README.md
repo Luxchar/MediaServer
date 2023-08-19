@@ -7,7 +7,7 @@ This repository contains a basic template for a media server setup with Docker (
 To run the project, you need to clone the repo
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Luxchar/media_server.git
 ```
 
 Now, configure the volumes to your need (and VPN)
