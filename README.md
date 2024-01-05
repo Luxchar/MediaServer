@@ -1,6 +1,6 @@
 # Repo for the Project
 
-This repository contains a basic template for a media server setup with Docker (compose)
+This repository contains a basic template for a media server setup on Linux with docker-compose
 
 ## Installation
 
